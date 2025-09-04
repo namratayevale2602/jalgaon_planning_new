@@ -1,0 +1,149 @@
+{
+  "annualPlan": {
+    "title": {
+      "en": "District Annual Plan (General)",
+      "mr": "जिल्हा वार्षिक आराखडा (सामान्य)"
+    },
+    "content": {
+      "en": [
+        "The District Annual Plan outlines the development agenda for Jalgaon district for the fiscal year.",
+        "It includes various schemes and programs aimed at infrastructure development, social welfare, and economic growth.",
+        "The plan is prepared after consultation with local authorities and stakeholders.",
+        "Budget allocation is done based on priority areas identified for the district."
+      ],
+      "mr": [
+        "जिल्हा वार्षिक आराखडा हा जळगाव जिल्ह्यासाठीच्या वित्तीय वर्षाच्या विकास उद्दिष्टांचा आराखडा आहे.",
+        "यात पायाभूत सुविधा विकास, सामाजिक कल्याण आणि आर्थिक विकास यासाठीच्या विविध योजना आणि कार्यक्रमांचा समावेश आहे.",
+        "हा आराखडा स्थानिक प्राधिकरणे आणि हितधारकांशी चर्चा करून तयार केला जातो.",
+        "जिल्ह्यासाठी ओळखलेल्या प्राधान्य क्षेत्रांवर आधारित अर्थसंकल्पीय तरतूद केली जाते."
+      ]
+    },
+    "pdfLink": "/pdfs/annual-plan.pdf"
+  },
+  "mlaFunds": {
+    "title": {
+      "en": "Member of Legislative Assembly Local Area Development",
+      "mr": "विधानसभा सदस्य स्थानिक क्षेत्र विकास निधी"
+    },
+    "content": {
+      "en": [
+        "MLA Funds are allocated for local area development projects recommended by the elected representatives.",
+        "Each MLA can recommend works up to a specified amount per year for their constituency.",
+        "Funds are utilized for public welfare works like roads, schools, hospitals, and other infrastructure.",
+        "Projects are implemented by the District Planning Committee after proper scrutiny."
+      ],
+      "mr": [
+        "निवडून आलेल्या प्रतिनिधींनी शिफारस केलेल्या स्थानिक क्षेत्र विकास प्रकल्पांसाठी एमएलए निधी वाटप केला जातो.",
+        "प्रत्येक एमएलए त्यांच्या मतदारसंघासाठी दर वर्षी निर्धारित रकमेपर्यंत कामांची शिफारस करू शकतो.",
+        "रस्ते, शाळा, रुग्णालया आणि इतर पायाभूत सुविधांसारख्या सार्वजनिक कल्याणकारी कामांसाठी निधी वापरला जातो.",
+        "योग्य तपासणीनंतर जिल्हा आराखडा समितीद्वारे प्रकल्पांची अंमलबजावणी केली जाते."
+      ]
+    },
+    "pdfLink": "/pdfs/mla-funds.pdf"
+  },
+  "mpFunds": {
+    "title": {
+      "en": "Member of Parliament Local Area Development Program",
+      "mr": "संसद सदस्य स्थानिक क्षेत्र विकास कार्यक्रम"
+    },
+    "content": {
+      "en": [
+        "MPLADS enables MPs to recommend works of developmental nature with emphasis on creation of durable community assets.",
+        "Each MP has the choice to suggest works to the District Collector up to Rs. 5 crores per annum.",
+        "Works include construction of school buildings, roads, bridges, drinking water projects etc.",
+        "The focus is on creating assets of national priority like drinking water, education, health etc."
+      ],
+      "mr": [
+        "एमपीएलएडीएसद्वारे खासदारांना टिकाऊ सामुदायिक मालमत्ता निर्मितीवर भर देऊन विकासात्मक स्वरूपाच्या कामांची शिफारस करण्याची संधी मिळते.",
+        "प्रत्येक खासदार दरवर्षी 5 कोटी रुपयांपर्यंत जिल्हाधिकार्यांना कामांची शिफारस करू शकतो.",
+        "शाळा इमारती, रस्ते, पूल, पिण्याच्या पाण्याचे प्रकल्प इत्यादी कामांचा समावेश होतो.",
+        "पिण्याचे पाणी, शिक्षण, आरोग्य यांसारख्या राष्ट्रीय प्राधान्यक्रमाच्या मालमत्ता निर्माण करण्यावर भर दिला जातो."
+      ]
+    },
+    "pdfLink": "/pdfs/mp-funds.pdf"
+  },
+  "hillyArea": {
+    "title": {
+      "en": "Hilly Area Development Plan",
+      "mr": "डोंगराळ क्षेत्र विकास योजना"
+    },
+    "content": {
+      "en": [
+        "Special development plan for hilly and tribal areas of Jalgaon district.",
+        "Focuses on improving connectivity, livelihood opportunities and basic amenities.",
+        "Includes construction of roads, bridges, water conservation projects in hilly regions.",
+        "Special provisions for tribal welfare and education."
+      ],
+      "mr": [
+        "जळगाव जिल्ह्यातील डोंगराळ आणि आदिवासी भागांसाठी विशेष विकास योजना.",
+        "संपर्कसुविधा, जीविकेच्या संधी आणि मूलभूत सुविधांमध्ये सुधारणा करण्यावर भर.",
+        "डोंगराळ भागात रस्ते, पूल, पाणी संवर्धन प्रकल्प यांचा समावेश.",
+        "आदिवासी कल्याण आणि शिक्षणासाठी विशेष तरतुदी."
+      ]
+    },
+    "pdfLink": "/pdfs/hilly-area.pdf"
+  },
+  "humanDevelopment": {
+    "title": {
+      "en": "Human Development Plan",
+      "mr": "मानवी विकास योजना"
+    },
+    "content": {
+      "en": [
+        "Focuses on improving human development indicators like health, education and standard of living.",
+        "Includes programs for women empowerment, child welfare and skill development.",
+        "Special emphasis on reducing malnutrition and improving maternal health.",
+        "Vocational training programs for youth to enhance employability."
+      ],
+      "mr": [
+        "आरोग्य, शिक्षण आणि जीवनमान यांसारख्या मानवी विकास निर्देशकांमध्ये सुधारणा करण्यावर भर.",
+        "महिला सक्षमीकरण, बालकल्याण आणि कौशल्य विकासाच्या कार्यक्रमांचा समावेश.",
+        "कुपोषण कमी करणे आणि मातृ आरोग्य सुधारणे यावर विशेष भर.",
+        "युवकांसाठी रोजगारक्षमता वाढविण्यासाठी व्यावसायिक प्रशिक्षण कार्यक्रम."
+      ]
+    },
+    "pdfLink": "/pdfs/human-development.pdf"
+  },
+  "minoritySchemes": {
+    "title": {
+      "en": "Minority Schemes",
+      "mr": "अल्पसंख्याक योजना"
+    },
+    "content": {
+      "en": [
+        "Schemes for welfare and development of minority communities in Jalgaon district.",
+        "Includes scholarships, skill development programs and infrastructure development.",
+        "Special focus on education of minority girls and economic empowerment.",
+        "Funds for modernization of madrasas and minority educational institutions."
+      ],
+      "mr": [
+        "जळगाव जिल्ह्यातील अल्पसंख्याक समुदायांच्या कल्याणासाठी आणि विकासासाठी योजना.",
+        "शिष्यवृत्ती, कौशल्य विकास कार्यक्रम आणि पायाभूत सुविधा विकास यांचा समावेश.",
+        "अल्पसंख्याक मुलींच्या शिक्षणावर आणि आर्थिक सक्षमीकरणावर विशेष भर.",
+        "मदरसा आणि अल्पसंख्याक शैक्षणिक संस्थांच्या आधुनिकीकरणासाठी निधी."
+      ]
+    },
+    "pdfLink": "/pdfs/minority-schemes.pdf"
+  },
+  "otherSchemes": {
+    "title": {
+      "en": "Other Schemes",
+      "mr": "इतर योजना"
+    },
+    "content": {
+      "en": [
+        "Various other development schemes implemented in Jalgaon district.",
+        "Includes central and state government sponsored programs.",
+        "Special packages for drought-prone areas and farmer welfare.",
+        "Urban development schemes for municipal areas of Jalgaon."
+      ],
+      "mr": [
+        "जळगाव जिल्ह्यात अंमलात आणल्या जाणाऱ्या विविध इतर विकास योजना.",
+        "केंद्र आणि राज्य सरकारप्रायोजित कार्यक्रमांचा समावेश.",
+        "दुष्काळग्रस्त भागांसाठी आणि शेतकऱ्यांच्या कल्याणासाठी विशेष पॅकेजेस.",
+        "जळगावच्या नगरपालिका क्षेत्रांसाठी शहरी विकास योजना."
+      ]
+    },
+    "pdfLink": "/pdfs/other-schemes.pdf"
+  }
+}

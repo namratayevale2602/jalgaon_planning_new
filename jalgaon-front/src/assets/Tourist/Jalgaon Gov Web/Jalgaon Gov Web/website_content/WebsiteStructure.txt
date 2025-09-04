@@ -1,0 +1,302 @@
+* Navbar
+*Footer
+
+
+
+1. Home Page 
+
+	- Header: Logo, Office Name (जिल्हा नियोजन समिती, जळगांव)
+	- Latest Updates: Notices, Tenders, Meeting Announcements (Scrolling)
+	- Quick links to RTI, Committees, Downloads
+	- Brief introduction of the District Planning Committee
+
+2. About Us
+
+	*- History: Establishment under Maharashtra District Planning Committee Act, 1998.
+	- Mission (जिल्हास्तरीय समन्वय), Jurisdiction (entire Jalgaon district), Parent Department (महाराष्ट्र शासन, अर्थ व नियोजन विभाग).
+	*- Organizational Chart: Hierarchy (जिल्हाधिकारी → जिल्हा नियोजन अधिकारी → सहायक अधिकारी, etc.)
+	- Objectives: योजना आखणी, निधी वितरण, समन्वय व संनियंत्रण
+
+3.Services / Functions & Duties
+	
+	* Responsibility
+	- Preparation of District Annual Plan (जिल्हा वार्षिक योजना).
+	- Coordination with district-level offices
+	- Approval of MLA/MP Local Area Development Projects.
+	- Meeting organization and documentation
+	- RTI-related services
+
+	*Role-wise Duties:
+	- Detailed duties of officers (e.g., जिल्हा नियोजन अधिकारी, सहायक संशोधन अधिकारी).
+
+4. Schemes & Programs
+
+	- District Annual Plan: Process, Current/Archived Plans.
+	- MLA/MP Funds : Guidelines, Approved Projects, Fund Utilization.
+	- Special Schemes : Tourism Development, Hilly Area Development, Statutory Development Board.
+
+5. Projects & Approvals
+	Current Projects: Status, Budget, Timeline.
+
+	Approval Process:
+
+	How to submit proposals (आवश्यक कागदपत्रे).
+
+	Timeframes (e.g., 90 days for MLA proposals).
+
+6. Committees & Meetings (समित्या व बैठका)
+	District Planning Committee:
+
+	Members, Meeting Schedule, Minutes (इतिवृत्त).
+
+	Sub-Committees: e.g., Executive Committee.
+
+7. Transparency & RTI (पारदर्शकता)
+	Budget & Expenditure: Annual Budget (अंदाजपत्रक), Fund Allocation.
+
+	RTI Section:
+
+	PIO Details (श्री. रा.आ.इधे, सहायक जिल्हा नियोजन अधिकारी).
+
+	Application Process, Fees.
+
+8. Staff & Contact (कर्मचारी व संपर्क)
+	Staff Directory:
+
+	Names, Designations, Contact (e.g., जिल्हा नियोजन अधिकारी - श्री. प्रतापराव पाटील).
+
+	Office Address:
+
+	नियोजन भवन, जिल्हाधिकारी कार्यालय आवार, जळगांव.
+
+	Phone: 0257-2223125 | Email: dpojalgaon@gmail.com.
+
+9. Downloads (डाउनलोड्स)
+	Forms: Project Proposal, RTI Application.
+
+	Reports:
+
+	Annual Plans, Audit Reports, Meeting Minutes.
+
+	Circulars: Government Orders (शासन निर्णय).
+
+10. Tenders & Notices (टेंडर व सूचना)
+	Active Tenders, Deadlines.
+
+	Public Notices (e.g., Office Closures).
+
+
+
+
+Data Mapping from Document to Website
+
+
+Document Section			Website Page		Key Content
+
+कार्ये व कर्तव्य (Page 1–3)			Functions & Duties		Roles of officers, विशिष्ट कार्ये
+अधिकारांचा तपशील (Page 4–6)		Transparency		Financial Powers, Decision-making Process
+कामाचे स्वरुप (Page 7–12)		Schemes & Projects		MLA/MP Funds, Tourism Projects
+कर्मचारी यादी (Page 33–35)		Staff & Contact		Names, Designations, Salaries
+बैठकीचा तपशील (Page 28–30)		Committees & Meetings	Meeting Schedules, Agendas
+अंदाजपत्रक (Page 36)			Transparency		Budget Allocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Structure 
+
+
+
+
+
+Here's a **complete website structure** for the **District Planning Committee, Jalgaon** with detailed sections, page descriptions, and data mapping from your 37-page document:
+
+1. Home Page
+
+Purpose: Central hub with quick access to critical info.  
+
+Sections:  
+  - Header: Logo + Office Name (जिल्हा नियोजन समिती, जळगांव).  
+  - Hero Banner : Rotating highlights (e.g., "Apply for MLA Funds Now!").  
+  - Quick Links :  
+  - District Annual Plan  
+  - MLA/MP Fund Projects  
+  - RTI Portal  
+  - Tenders  
+  - News & Updates: Latest notices (e.g., meeting dates, tender announcements).  
+  - Contact Widget: Phone (0257-2223125), Email, Office Hours (9:45 AM–6:15 PM).  
+
+2. About Us
+ 
+Subpages:  
+
+2.1 Overview
+
+  - Content: Mission (जिल्हास्तरीय समन्वय), Jurisdiction (entire Jalgaon district), Parent Department (महाराष्ट्र शासन, अर्थ व नियोजन विभाग).  
+  - Data Source: Document pages 1–3 (कार्यालयाचे तपशील).  
+
+2.2 Organizational Structure
+  
+  - Content: Hierarchy chart (जिल्हाधिकारी → जिल्हा नियोजन अधिकारी → सहायक अधिकारी, etc.).  
+  - Data Source: Document page 3 (संस्थेचा प्रारुप तक्ता).  
+
+2.3 History & Acts  
+   - Content: Established under *District Planning Committee Act, 1998*. Key milestones.  
+
+
+3. Functions & Duties (कर्तव्ये)
+
+Subpages:  
+
+3.1 Key Responsibilities
+ 
+- Content:  
+  - Prepare District Annual Plan (जिल्हा वार्षिक योजना).  
+  - Approve MLA/MP Local Area Development projects.  
+  - Coordinate with district offices.  
+- Data Source: Document pages 7–12 (विशिष्ट कार्ये).  
+
+3.2 Role-wise Duties 
+- Content: Table of duties by designation (e.g., जिल्हा नियोजन अधिकारी monitors 10% of works).  
+- Data Source: Document pages 13–20 (कर्तव्याचा तपशील).  
+
+
+4. Schemes & Programs *(योजना)*  
+
+Subpages:  
+
+4.1 District Annual Plan
+ 
+- Content: Process, current year plan, past archives.  
+- Data Source: Document pages 12, 24–25 (जिल्हा वार्षिक योजना).  
+
+4.2 MLA/MP Funds
+  
+- Content:  
+
+  - Guidelines (90-day approval for MLA funds).  
+  - Approved projects list.  
+- Data Source: Document pages 21–22 (आमदार/खासदार निधी).  
+
+
+4.3 Special Schemes
+
+- Content: Tourism, Hilly Area Development, Statutory Board projects.  
+- Data Source: Document pages 26–27.  
+
+5. Projects & Approvals *(प्रकल्प)*  
+
+Subpages:  
+
+5.1 Ongoing Projects
+ 
+- Content: Status, budget, photos (e.g., "Jalgaon Tourism Infrastructure").  
+
+5.2 Approval Process
+
+- Content: Step-by-step guide to submit proposals (required documents, timelines).  
+- Data Source: Document pages 28–30 (प्रस्ताव मंजुरी प्रक्रिया).  
+
+
+
+6. Committees & Meetings *(समित्या)* 
+ 
+Subpages:  
+
+6.1 District Planning Committee  
+- Content: Members, meeting schedule (4 meetings/year), past minutes.  
+- Data Source: Document pages 31–32 (बैठकीचा तपशील).  
+
+6.2 Executive Committee 
+- Content: Monthly progress reviews.  
+
+7. Transparency & RTI *(पारदर्शकता)*  
+
+Subpages:  
+
+7.1 Budget & Expenditure
+ 
+- Content: Annual budget (अंदाजपत्रक), fund utilization reports.  
+- Data Source: Document page 36. 
+ 
+
+7.2 RTI Portal
+
+- Content:  
+
+  - PIO Details: श्री. रा.आ.इधे (सहायक जिल्हा नियोजन अधिकारी).  
+  - How to file RTI, fees.  
+- Data Source: Document pages 37–38.  
+
+
+8. Staff & Contact *(संपर्क)*  
+
+Subpages:  
+
+8.1 Directory
+- Content:  
+  - Names, designations, contact (e.g., जिल्हा नियोजन अधिकारी: श्री. प्रतापराव पाटील).  
+  - Salary details (as per government norms).  
+- Data Source: Document pages 33–35.  
+
+
+8.2 Office Location  
+- Content:  
+  - Address: नियोजन भवन, जिल्हाधिकारी कार्यालय आवार, जळगांव.  
+  - Google Maps embed.  
+
+
+9. Downloads *(डाउनलोड्स)*  
+Subpages:  
+9.1 Forms  
+- Content:  
+  - Project Proposal Form (PDF).  
+  - RTI Application Form.  
+9.2 Reports
+- Content: Annual Plans, Audit Reports (परीक्षण अहवाल).  
+
+10. Tenders & Notices *(टेंडर)*  
+Subpages:  
+10.1 Active Tenders
+Content: List with deadlines (e.g., "Road Construction – Deadline: 30 Nov 2024").  
+10.2 Public Notices
+- **Content**: Office closures, public hearings.  
+
+---
+
+### **Additional Pages**  
+- **Grievance Portal**: Citizen feedback form.  
+- **FAQ**: Common queries about schemes/projects.  
+- **Gallery**: Photos of completed works.  
+
+---
+
+### **Sitemap Diagram**  
+```  
+Home  
+├─ About Us (Overview, Structure, History)  
+├─ Functions & Duties  
+├─ Schemes (District Plan, MLA/MP Funds, Special Schemes)  
+├─ Projects (Ongoing, Approval Process)  
+├─ Committees (Meetings, Minutes)  
+├─ Transparency (Budget, RTI)  
+├─ Staff & Contact  
+├─ Downloads (Forms, Reports)  
+└─ Tenders & Notices  
+```  
+
+### **Tech Recommendations**  
+1. **CMS**: WordPress (user-friendly for govt staff).  
+2. **Accessibility**: WCAG-compliant design (text-to-speech, high contrast).  
+3. **Multilingual**: Marathi (default) + English toggle.  
+
+Let me know if you'd like wireframes or content templates for any page!
